@@ -1,0 +1,16 @@
+//
+//  AppDelegate.h
+//  F-Jiege
+//
+//  Created by zhongding on 2018/7/19.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
